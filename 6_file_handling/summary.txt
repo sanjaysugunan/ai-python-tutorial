@@ -1,0 +1,5 @@
+Here is a summary of the meeting:
+
+* **Alice** completed and merged the authentication module.
+* **Bob** fixed the payment API bug but is currently blocked waiting on dashboard assets from the design team.
+* **Next Steps:** Bob will follow up with design today, with the team aiming to complete all tasks by Friday.
